@@ -7,12 +7,12 @@
 | 02 | [Определение выгодного тарифа для телеком компании](https://github.com/OlegSsnegirev/practicum_yandex_ds_bootcamp/blob/main/06_determining_the_best_tariff.ipynb) | На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа | `Python` `Pandas` `Matplotlib` `NumPy` `SciPy` `описательная статистика` `проверка статистических гипотез`|
 | 03 | [Изучение рынка игр](https://github.com/OlegSsnegirev/practicum_yandex_ds_bootcamp/blob/main/07_gaming_industry_analysis.ipynb) |  На основе открытых данных нужно выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании. | `Python` `Pandas` `Matplotlib` `Seaborn` `NumPy` `SciPy`  |
 | 04 | [Классификаиция клиентов телеком компании](https://github.com/OlegSsnegirev/practicum_yandex_ds_bootcamp/blob/main/09_classification_of_telecom_company_clients.ipynb) | На основе данных о поведении клиентов, которые уже перешли на эти тарифы, нужно построить модель для задачи классификации, которая выберет подходящий тариф. |  `Python` `Pandas` `Matplotlib` `NumPy` `Scikit-learn` |
-| 05 |  | ----------- | ---- |
-| 06 |  | ----------- | ---- |
-| 07 |  | ----------- | ---- |
-| 08 |  | ----------- | ---- |
-| 09 |  | ----------- | ---- |
-| 10 |  | ----------- | ---- |
-| 11 |  | ----------- | ---- |
-| 12 |  | ----------- | ---- |
-| 13 |  | ----------- | ---- |
+| 05 | [Прогнозирование оттока клиента Банка](https://github.com/OlegSsnegirev/practicum_yandex_ds_bootcamp/blob/main/10_bank_customer_churn.ipynb) | На основе данных из банка определить клиента, который может уйти | `Python` `Pandas` `Matplotlib` `Seaborn` `NumPy` `Scikit-learn`  |
+| 06 | [Определение наиболее выгодного региона нефтедобычи](https://github.com/OlegSsnegirev/practicum_yandex_ds_bootcamp/blob/main/11_profitable_oil_production_region.ipynb) | На основе данных геологи разведки выбрать район добычи нефти | `Python` `Pandas` `Matplotlib` `NumPy` `Scikit-learn` `бустреп` |
+| 07 | [Исследование технологического процесса очистки золота](https://github.com/OlegSsnegirev/practicum_yandex_ds_bootcamp/blob/main/12_gold_purification_process.ipynb) | Спрогнозировать концентрацию золота при проведении процесса очистки золота | `Python` `Pandas` `Matplotlib` `Seaborn` `NumPy` `Scikit-learn` `исследовательский анализ данных` |
+| 08 | [Защита данных клиентов страховой компании](https://github.com/OlegSsnegirev/practicum_yandex_ds_bootcamp/blob/main/13_protection_of_personal_data.ipynb) | Разработка модели анонимизации персональных данных | `Python` `Pandas` `Scikit-learn` |
+| 09 | [Построение модели определения стоимости автомобиля](https://github.com/OlegSsnegirev/practicum_yandex_ds_bootcamp/blob/main/14_determining_the_cost_of_cars.ipynb) | Разработка системы рекомендации стоимости автомобиля на основе его описания | `Python` `Pandas` `Matplotlib` `NumPy` `Scikit-learn` `CatBoost` `LGBM`|
+| 10 | [Прогнозирование количества заказов такси на следующий час](https://github.com/OlegSsnegirev/practicum_yandex_ds_bootcamp/blob/main/15_taxi_order_forecasting.ipynb) | Разработка системы предсказания объема заказа. | `Python` `Pandas` `Scikit-learn` `SARIMA` |
+| 11 | [Обучение модели классификации комментариев](https://github.com/OlegSsnegirev/practicum_yandex_ds_bootcamp/blob/main/16_classification_of_comments.ipynb) | Определение токсичности комментарии. |  `Python` `Pandas` `Scikit-learn` `nltk` `Tfidf`  |
+| 12 | [Обработка фотографий покупателя]() | Определение возраста по фотографии |  `Python` `Pandas` `Matplotlib` `keras` |
+| 13 | [Прогнозирование оттока телеком компании](https://github.com/OlegSsnegirev/practicum_yandex_ds_bootcamp/blob/main/19_telecom_company_outflow.ipynb) | Оператор связи хочет научиться прогнозировать отток клиентов. Если выяснится, что пользователь планирует уйти, ему будут предложены промокоды и специальные условия. Команда оператора собрала персональные данные о некоторых клиентах, информацию об их тарифах и договорах.  | `Python` `Pandas` `Matplotlib` `Seaborn` `NumPy` `Scikit-learn` `исследовательский анализ данных` `классификация` |
